@@ -1,2 +1,4 @@
-#I'm cat.My name is nothing yet.
-Id=sum(A,B)
+# test.
+*Id=sum(A,B)
+*//testcode
+//fast real
