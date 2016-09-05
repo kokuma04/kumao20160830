@@ -6,3 +6,4 @@
 fail = 
 true =
 catwalk
+nothing
