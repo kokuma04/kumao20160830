@@ -7,3 +7,4 @@ fail =
 true =
 catwalk
 nothing
+noooo
